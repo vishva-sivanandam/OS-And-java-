@@ -1,6 +1,0 @@
-hello world
-git init -- iniatalize git to current folder
-git add . -- 
-git commit -m "[ FEAT ] login page ui done"
-
-git push -f -- push commit to branch
